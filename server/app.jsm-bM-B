@@ -7,7 +7,10 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.json({ message: "Smart Quiz AI Backend Running 🚀" });
+  res.json({
+    message: "Smart Quiz AI Backend Running 🚀"
+  });
 });
 
 module.exports = app;
+
