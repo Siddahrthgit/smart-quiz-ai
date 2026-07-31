@@ -1,9 +1,15 @@
+import { Routes, Route } from "react-router-dom";
+import Upload from "./pages/Upload";
+import Quiz from "./pages/Quiz";
+import Results from "./pages/Results";
+
 function App() {
   return (
-    <div>
-      <h1>Smart Quiz AI 🚀</h1>
-      <p>Your frontend is working!</p>
-    </div>
+    <Routes>
+      <Route path="/" element={<Upload />} />
+      <Route path="/quiz" element={<Quiz />} />
+      <Route path="/results" element={<Results />} />
+    </Routes>
   );
 }
 
