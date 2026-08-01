@@ -1,8 +1,13 @@
+
 const express = require("express");
 const router = express.Router();
 
-router.get("/", (req, res) => {
-  res.json({ message: "Auth Route Working" });
-});
+const {
+  getQuiz,
+  submitAnswers,
+} = require("../controllers/quizController");
+
+router.get("/", getQuiz);
+router.post("/submit", submitAnswers);
 
 module.exports = router;
