@@ -1,0 +1,3514 @@
+======================================================================
+NEPAL CIVIL ENGINEERING - 500 MCQs WITH 4 OPTIONS
+======================================================================
+
+Topics Covered:
+1. Surveying (Q1-Q50)
+2. Geotechnical Engineering (Q51-Q123)
+3. Structural Analysis (Q124-Q197)
+4. RCC & Steel Design (Q198-Q266)
+5. Water Resources & Hydrology (Q267-Q323)
+6. Irrigation Engineering (Q324-Q382)
+7. Water Supply & Open Channel Flow (Q383-Q449)
+8. Dams, Seismic & Miscellaneous (Q450-Q500)
+======================================================================
+
+Q1: What is the primary purpose of surveying in civil engineering?
+    A) To construct buildings
+    B) To determine relative positions of points on earth's surface
+    C) To design roads only
+    D) To calculate material quantities
+Ans: B
+
+Q2: Plane surveying assumes the earth's surface is:
+    A) Spherical
+    B) Flat
+    C) Ellipsoidal
+    D) Parabolic
+Ans: B
+
+Q3: Geodetic surveying accounts for:
+    A) Wind effects only
+    B) Earth's curvature
+    C) Temperature variations
+    D) Magnetic declination only
+Ans: B
+
+Q4: A benchmark is a point of:
+    A) Unknown elevation
+    B) Known elevation used as reference
+    C) Known latitude
+    D) Known longitude
+Ans: B
+
+Q5: Which instrument is used to measure horizontal angles?
+    A) Level
+    B) Theodolite
+    C) Chain
+    D) Compass
+Ans: B
+
+Q6: In chain surveying, the area is divided into:
+    A) Squares
+    B) Triangles
+    C) Circles
+    D) Rectangles
+Ans: B
+
+Q7: A ranging rod is used to:
+    A) Measure distances
+    B) Mark stations and range straight lines
+    C) Measure angles
+    D) Level the ground
+Ans: B
+
+Q8: The least count of a standard vernier theodolite is:
+    A) 1 minute
+    B) 20 seconds
+    C) 1 degree
+    D) 10 seconds
+Ans: B
+
+Q9: Back sight is taken on a point of:
+    A) Unknown elevation
+    B) Known elevation
+    C) Mid-elevation
+    D) Zero elevation
+Ans: B
+
+Q10: Fore sight is taken on a point of:
+    A) Known elevation
+    B) Unknown elevation
+    C) Benchmark
+    D) Reference point
+Ans: B
+
+Q11: A dumpy level is used to determine:
+    A) Horizontal angles
+    B) Relative heights or elevations
+    C) Distances only
+    D) Directions
+Ans: B
+
+Q12: The curvature correction in leveling is given by:
+    A) C = 0.0673 D²
+    B) C = 0.0785 D²
+    C) C = 0.5 D²
+    D) C = 0.01 D²
+Ans: B
+
+Q13: The refraction correction is approximately:
+    A) Equal to curvature correction
+    B) 1/7th of curvature correction
+    C) Twice the curvature correction
+    D) Zero
+Ans: B
+
+Q14: Combined curvature and refraction correction is:
+    A) C = 0.0785 D²
+    B) C = 0.0673 D²
+    C) C = 0.05 D²
+    D) C = 0.1 D²
+Ans: B
+
+Q15: A contour line joins points of:
+    A) Equal temperature
+    B) Equal elevation
+    C) Equal pressure
+    D) Equal humidity
+Ans: B
+
+Q16: The vertical distance between two consecutive contour lines is called:
+    A) Contour gradient
+    B) Contour interval
+    C) Horizontal equivalent
+    D) Vertical equivalent
+Ans: B
+
+Q17: A watershed line joins:
+    A) Lowest points
+    B) Highest points of a drainage basin
+    C) Mid-points
+    D) Valley points
+Ans: B
+
+Q18: Plane table survey plots field work:
+    A) In the office later
+    B) Directly on a sheet attached to the table
+    C) Using a computer
+    D) By estimation
+Ans: B
+
+Q19: The three-point problem in plane tabling involves:
+    A) One known point
+    B) Three known points
+    C) Two known points
+    D) Four known points
+Ans: B
+
+Q20: The two-point problem in plane tabling involves:
+    A) Three known points
+    B) Two known points
+    C) One known point
+    D) Four known points
+Ans: B
+
+Q21: A tachometer is used to determine:
+    A) Only horizontal distances
+    B) Horizontal and vertical distances indirectly
+    C) Only vertical distances
+    D) Angles only
+Ans: B
+
+Q22: In stadia tacheometry, the multiplying constant is typically:
+    A) 50
+    B) 100
+    C) 200
+    D) 150
+Ans: B
+
+Q23: The additive constant in stadia tacheometry is:
+    A) Always zero
+    B) (f + d)
+    C) 100
+    D) f/i
+Ans: B
+
+Q24: A transition curve provides:
+    A) Constant radius
+    B) Gradual change in curvature
+    C) Sudden change in direction
+    D) Constant superelevation
+Ans: B
+
+Q25: A compound curve is used when:
+    A) Deflection angle is small
+    B) Deflection angle is too large for a single curve
+    C) Radius is constant
+    D) Speed is high
+Ans: B
+
+Q26: The degree of a curve is the angle subtended at center by a chord of:
+    A) 10m
+    B) 30m or 20m
+    C) 50m
+    D) 100m
+Ans: B
+
+Q27: For a 30m chord, R = 1720/D where D is:
+    A) Radius
+    B) Degree of curve
+    C) Deflection angle
+    D) Length of curve
+Ans: B
+
+Q28: The apex distance of a simple curve is measured from:
+    A) PC to PT
+    B) Midpoint of curve to PI
+    C) PI to PC
+    D) Center to PI
+Ans: B
+
+Q29: The versine of a curve is the perpendicular distance from:
+    A) Chord to tangent
+    B) Midpoint of chord to arc
+    C) PI to curve
+    D) Center to chord
+Ans: B
+
+Q30: A total station measures:
+    A) Only distances
+    B) Angles and distances
+    C) Only angles
+    D) Elevations only
+Ans: B
+
+Q31: GPS surveying uses:
+    A) Radio waves only
+    B) Satellite signals
+    C) Laser beams
+    D) Microwave pulses
+Ans: B
+
+Q32: Triangulation measures:
+    A) Distances
+    B) Angles
+    C) Elevations
+    D) Temperatures
+Ans: B
+
+Q33: Trilateration measures:
+    A) Angles
+    B) Distances
+    C) Elevations
+    D) Directions
+Ans: B
+
+Q34: Resection determines the position of:
+    A) A known point
+    B) An unknown point
+    C) A benchmark
+    D) A reference line
+Ans: B
+
+Q35: A clinometer measures:
+    A) Horizontal angles
+    B) Angle of slope or elevation
+    C) Distances
+    D) Azimuths
+Ans: B
+
+Q36: The sensitivity of a bubble tube is expressed in:
+    A) Millimeters
+    B) Seconds of arc
+    C) Degrees
+    D) Minutes
+Ans: B
+
+Q37: An anallactic lens makes the additive constant:
+    A) Equal to 100
+    B) Zero
+    C) Equal to f
+    D) Equal to d
+Ans: B
+
+Q38: A closed traverse begins and ends at:
+    A) Different points
+    B) The same point or known positions
+    C) Random points
+    D) Benchmarks only
+Ans: B
+
+Q39: The closing error is the difference between:
+    A) Measured and computed distances
+    B) Computed and known positions
+    C) Two measurements
+    D) Elevation differences
+Ans: B
+
+Q40: The Bowditch rule adjusts traverse by making corrections:
+    A) Equal for all sides
+    B) Proportional to side lengths
+    C) Proportional to angles
+    D) Inversely proportional to lengths
+Ans: B
+
+Q41: The transit rule makes corrections proportional to:
+    A) Side lengths only
+    B) Latitudes and departures
+    C) Angles only
+    D) Bearings only
+Ans: B
+
+Q42: Sounding in hydrographic survey measures:
+    A) Water temperature
+    B) Depth of water
+    C) Water velocity
+    D) Salinity
+Ans: B
+
+Q43: The contour gradient is:
+    A) Vertical distance between contours
+    B) The slope of the ground along a contour
+    C) Horizontal distance between contours
+    D) The elevation difference
+Ans: B
+
+Q44: An isogonal line is a line of:
+    A) Equal elevation
+    B) Equal magnetic declination
+    C) Equal temperature
+    D) Equal pressure
+Ans: B
+
+Q45: The scale of a map is 1:50000. The distance between two points on map is 2cm. Ground distance is:
+    A) 500m
+    B) 1000m
+    C) 250m
+    D) 2000m
+Ans: B
+
+Q46: The representative fraction (RF) of a map is:
+    A) Map distance / Ground distance in same units
+    B) Ground distance / Map distance
+    C) Map area / Ground area
+    D) Ground area / Map area
+Ans: A
+
+Q47: In a theodolite, the line of collimation is the line joining:
+    A) Center of instrument to object
+    B) Intersection of cross hairs to optical center of objective
+    C) Two leveling screws
+    D) Vertical axis to horizontal axis
+Ans: B
+
+Q48: The axis of the telescope in a theodolite must be:
+    A) Parallel to vertical axis
+    B) Perpendicular to horizontal axis
+    C) Parallel to horizontal axis
+    D) Inclined to vertical axis
+Ans: B
+
+Q49: The face left and face right observations in a theodolite are taken to:
+    A) Increase accuracy
+    B) Eliminate instrumental errors
+    C) Save time
+    D) Measure vertical angles
+Ans: B
+
+Q50: The permanent adjustment of a dumpy level includes:
+    A) Only bubble tube adjustment
+    B) Bubble tube, cross hair, and line of sight adjustments
+    C) Only cross hair adjustment
+    D) Only focusing adjustment
+Ans: B
+
+Q51: Soil mechanics deals with the engineering behavior of:
+    A) Rocks only
+    B) Soil
+    C) Water
+    D) Air
+Ans: B
+
+Q52: The three-phase system of soil consists of:
+    A) Solid, liquid, gas
+    B) Solid particles, water, and air
+    C) Sand, silt, clay
+    D) Organic matter, minerals, water
+Ans: B
+
+Q53: Void ratio is the ratio of:
+    A) Volume of voids to total volume
+    B) Volume of voids to volume of solids
+    C) Volume of solids to volume of voids
+    D) Volume of water to total volume
+Ans: B
+
+Q54: Porosity is the ratio of:
+    A) Volume of solids to total volume
+    B) Volume of voids to total volume
+    C) Volume of water to volume of voids
+    D) Volume of air to total volume
+Ans: B
+
+Q55: Degree of saturation is the ratio of:
+    A) Volume of voids to total volume
+    B) Volume of water to volume of voids
+    C) Volume of water to total volume
+    D) Volume of air to volume of voids
+Ans: B
+
+Q56: Water content is the ratio of:
+    A) Weight of water to total weight
+    B) Weight of water to weight of solids
+    C) Weight of solids to weight of water
+    D) Volume of water to total volume
+Ans: B
+
+Q57: Specific gravity of soil solids is the ratio of:
+    A) Weight of soil to weight of water
+    B) Weight of soil solids to weight of equal volume of water at 4°C
+    C) Weight of soil to volume of soil
+    D) Density of soil to density of air
+Ans: B
+
+Q58: Atterberg limits define the boundaries between:
+    A) Different soil types
+    B) Different states of soil (liquid, plastic, semi-solid, solid)
+    C) Different particle sizes
+    D) Different densities
+Ans: B
+
+Q59: Liquid limit is the water content at which soil changes from:
+    A) Solid to semi-solid
+    B) Liquid to plastic state
+    C) Plastic to semi-solid
+    D) Semi-solid to solid
+Ans: B
+
+Q60: Plastic limit is the water content at which soil changes from:
+    A) Liquid to plastic
+    B) Plastic to semi-solid state
+    C) Semi-solid to solid
+    D) Solid to plastic
+Ans: B
+
+Q61: Plasticity index is calculated as:
+    A) LL + PL
+    B) LL - PL
+    C) PL - LL
+    D) LL × PL
+Ans: B
+
+Q62: Shrinkage limit is the water content below which:
+    A) Soil starts swelling
+    B) Further reduction does not cause volume decrease
+    C) Soil becomes liquid
+    D) Soil reaches maximum density
+Ans: B
+
+Q63: Liquidity index is:
+    A) (w - LL)/PI
+    B) (w - PL)/PI
+    C) (LL - w)/PI
+    D) (PL - w)/PI
+Ans: B
+
+Q64: Consistency index is:
+    A) (w - LL)/PI
+    B) (LL - w)/PI
+    C) (PL - w)/PI
+    D) w/PI
+Ans: B
+
+Q65: The A-line in plasticity chart has the equation:
+    A) IP = 0.5(LL - 20)
+    B) IP = 0.73(LL - 20)
+    C) IP = LL - 20
+    D) IP = 0.9(LL - 20)
+Ans: B
+
+Q66: Sieve analysis is used for:
+    A) All soils
+    B) Coarse-grained soils
+    C) Fine-grained soils
+    D) Organic soils
+Ans: B
+
+Q67: Hydrometer analysis is used for:
+    A) Coarse-grained soils
+    B) Fine-grained soils
+    C) Rock fragments
+    D) Gravel
+Ans: B
+
+Q68: Coefficient of uniformity Cu is:
+    A) D10/D60
+    B) D60/D10
+    C) D30/D10
+    D) D60/D30
+Ans: B
+
+Q69: For a well-graded soil, Cu should be greater than:
+    A) 2
+    B) 4
+    C) 6
+    D) 10
+Ans: C
+
+Q70: Coefficient of curvature Cc is:
+    A) (D60)²/(D30 × D10)
+    B) (D30)²/(D60 × D10)
+    C) (D10)²/(D30 × D60)
+    D) D30/(D60 × D10)
+Ans: B
+
+Q71: For well-graded soil, Cc should be between:
+    A) 0 and 1
+    B) 1 and 3
+    C) 3 and 5
+    D) 5 and 10
+Ans: B
+
+Q72: Darcy's law states q =:
+    A) k × A
+    B) k × i × A
+    C) k × i
+    D) i × A
+Ans: B
+
+Q73: Coefficient of permeability has units of:
+    A) m/s
+    B) m²/s
+    C) 1/s
+    D) m³/s
+Ans: A
+
+Q74: Constant head permeability test is used for:
+    A) Clay
+    B) Coarse-grained soils
+    C) Silt
+    D) Organic soils
+Ans: B
+
+Q75: Falling head permeability test is used for:
+    A) Sand
+    B) Fine-grained soils
+    C) Gravel
+    D) Rock
+Ans: B
+
+Q76: Quicksand condition occurs when:
+    A) Upward seepage force equals total weight of soil
+    B) Upward seepage force equals submerged weight of soil
+    C) Downward flow occurs
+    D) No flow occurs
+Ans: B
+
+Q77: Critical hydraulic gradient ic =:
+    A) (Gs + 1)/(1 + e)
+    B) (Gs - 1)/(1 + e)
+    C) Gs/(1 + e)
+    D) (Gs - 1)/e
+Ans: B
+
+Q78: Capillary rise is caused by:
+    A) Gravity
+    B) Surface tension
+    C) Viscosity
+    D) Pressure difference
+Ans: B
+
+Q79: Effective stress principle states σ' =:
+    A) σ + u
+    B) σ - u
+    C) σ × u
+    D) σ/u
+Ans: B
+
+Q80: Consolidation is the:
+    A) Rapid settlement under load
+    B) Gradual reduction in volume under sustained loading
+    C) Immediate elastic deformation
+    D) Swelling of soil
+Ans: B
+
+Q81: Compression index Cc is the slope of:
+    A) Recompression curve
+    B) Virgin compression curve in e-log σ' plot
+    C) Swelling curve
+    D) Time-settlement curve
+Ans: B
+
+Q82: Preconsolidation pressure is:
+    A) Current effective stress
+    B) Maximum past effective stress
+    C) Minimum past effective stress
+    D) Average effective stress
+Ans: B
+
+Q83: Normally consolidated clay has OCR:
+    A) Greater than 1
+    B) Equal to 1
+    C) Less than 1
+    D) Equal to 0
+Ans: B
+
+Q84: Overconsolidated clay has OCR:
+    A) Less than 1
+    B) Greater than 1
+    C) Equal to 1
+    D) Equal to 0
+Ans: B
+
+Q85: Coefficient of consolidation Cv has units of:
+    A) m/s
+    B) m²/s
+    C) m³/s
+    D) 1/s
+Ans: B
+
+Q86: Time factor Tv =:
+    A) Cv × t × H²
+    B) Cv × t/H²
+    C) H²/(Cv × t)
+    D) t/(Cv × H²)
+Ans: B
+
+Q87: Shear strength of soil is given by:
+    A) τ = c - σ' tan φ
+    B) τ = c + σ' tan φ
+    C) τ = c × σ' tan φ
+    D) τ = σ' tan φ only
+Ans: B
+
+Q88: Mohr-Coulomb failure criterion states failure occurs when:
+    A) Shear stress equals normal stress
+    B) Shear stress reaches c + σ' tan φ
+    C) Normal stress is maximum
+    D) Pore pressure is zero
+Ans: B
+
+Q89: Drained shear strength is measured under conditions:
+    A) Without drainage
+    B) Allowing pore water drainage
+    C) Rapid loading
+    D) Constant volume
+Ans: B
+
+Q90: Unconfined compression test is used for:
+    A) All soils
+    B) Cohesive soils
+    C) Granular soils
+    D) Rock
+Ans: B
+
+Q91: In unconfined compression test, σ3 =:
+    A) Cell pressure
+    B) Zero
+    C) Atmospheric pressure
+    D) Confining pressure
+Ans: B
+
+Q92: Triaxial test applies:
+    A) Only axial stress
+    B) Confining pressure and axial stress
+    C) Only confining pressure
+    D) Hydrostatic pressure
+Ans: B
+
+Q93: Direct shear test shears soil along a:
+    A) Random plane
+    B) Predetermined plane
+    C) Horizontal plane only
+    D) Vertical plane only
+Ans: B
+
+Q94: Vane shear test is used for:
+    A) Dense sand
+    B) Soft cohesive soils
+    C) Gravel
+    D) Rock
+Ans: B
+
+Q95: Standard Penetration Test (SPT) uses:
+    A) Cone penetrometer
+    B) Split-spoon sampler
+    C) Vane
+    D) Pressure meter
+Ans: B
+
+Q96: N-value in SPT is:
+    A) Depth of penetration
+    B) Number of blows for 300mm penetration
+    C) Number of blows for 150mm penetration
+    D) Total blows for entire penetration
+Ans: B
+
+Q97: Cone Penetration Test (CPT) measures:
+    A) Only soil type
+    B) Cone resistance and sleeve friction
+    C) Only pore pressure
+    D) Only soil density
+Ans: B
+
+Q98: The angle of internal friction for loose sand is typically:
+    A) 30-35°
+    B) 25-30°
+    C) 35-40°
+    D) 40-45°
+Ans: B
+
+Q99: For saturated normally consolidated clay, undrained shear strength cu is approximately:
+    A) 0.1 σ'v
+    B) 0.2 σ'v to 0.3 σ'v
+    C) 0.5 σ'v
+    D) Equal to σ'v
+Ans: B
+
+Q100: Sensitivity of clay is the ratio of:
+    A) Undisturbed strength to remolded strength
+    B) Remolded strength to undisturbed strength
+    C) Peak strength to residual strength
+    D) Residual strength to peak strength
+Ans: A
+
+Q101: Thixotropy in clay refers to:
+    A) Permanent loss of strength
+    B) Regain of strength with time after remolding
+    C) Increase in volume
+    D) Decrease in permeability
+Ans: B
+
+Q102: The Casagrande's logarithm of time fitting method is used to determine:
+    A) Compression index
+    B) Coefficient of consolidation
+    C) Preconsolidation pressure
+    D) Permeability
+Ans: B
+
+Q103: The square root of time fitting method is used to determine:
+    A) Preconsolidation pressure
+    B) Coefficient of consolidation
+    C) Compression index
+    D) Coefficient of permeability
+Ans: B
+
+Q104: Secondary consolidation occurs:
+    A) Before primary consolidation
+    B) After primary consolidation is complete
+    C) During primary consolidation
+    D) Only in sand
+Ans: B
+
+Q105: The compression index for normally consolidated clay is approximately:
+    A) 0.009(LL - 10)
+    B) 0.009(wL - 10)
+    C) 0.009(PL - 10)
+    D) 0.009(PI - 10)
+Ans: B
+
+Q106: Seepage velocity is:
+    A) Equal to discharge velocity
+    B) Greater than discharge velocity
+    C) Less than discharge velocity
+    D) Equal to pore velocity
+Ans: B
+
+Q107: Seepage velocity vs =:
+    A) v/n
+    B) v × n
+    C) v × (1+n)
+    D) v/(1-n)
+Ans: A
+
+Q108: A flow net consists of:
+    A) Only flow lines
+    B) Flow lines and equipotential lines
+    C) Only equipotential lines
+    D) Stream lines only
+Ans: B
+
+Q109: In a flow net, flow lines and equipotential lines are:
+    A) Parallel
+    B) Perpendicular to each other
+    C) At 45° to each other
+    D) Coincident
+Ans: B
+
+Q110: The exit gradient in a flow net is:
+    A) Maximum at the upstream toe
+    B) Maximum at the downstream toe
+    C) Uniform throughout
+    D) Zero at the toe
+Ans: B
+
+Q111: The uplift pressure under a dam is maximum at:
+    A) The toe
+    B) The heel
+    C) The center
+    D) The downstream face
+Ans: B
+
+Q112: A filter material should satisfy:
+    A) Only permeability requirement
+    B) Both permeability and retention criteria
+    C) Only retention criteria
+    D) Only gradation requirements
+Ans: B
+
+Q113: The California Bearing Ratio (CBR) test is used to evaluate:
+    A) Shear strength
+    B) Subgrade strength for pavement design
+    C) Permeability
+    D) Compressibility
+Ans: B
+
+Q114: CBR value is the ratio of:
+    A) Test load to standard load at 5mm penetration
+    B) Test load to standard load at 2.5mm penetration
+    C) Standard load to test load
+    D) Test load at 2.5mm to test load at 5mm
+Ans: B
+
+Q115: Plate load test is used to determine:
+    A) Permeability
+    B) Bearing capacity and settlement of soil
+    C) Shear strength
+    D) Compaction characteristics
+Ans: B
+
+Q116: The modulus of subgrade reaction is determined from:
+    A) Triaxial test
+    B) Plate load test
+    C) Direct shear test
+    D) Consolidation test
+Ans: B
+
+Q117: Compaction is the process of:
+    A) Increasing water content
+    B) Increasing dry density by mechanical means
+    C) Decreasing void ratio by drainage
+    D) Removing air from soil
+Ans: B
+
+Q118: Standard Proctor test uses a hammer of:
+    A) 2.5 kg falling 300 mm
+    B) 2.6 kg falling 310 mm
+    C) 4.5 kg falling 450 mm
+    D) 5.5 kg falling 500 mm
+Ans: B
+
+Q119: Modified Proctor test uses a hammer of:
+    A) 2.6 kg
+    B) 4.54 kg falling 457 mm
+    C) 5 kg
+    D) 3 kg
+Ans: B
+
+Q120: The OMC (Optimum Moisture Content) is the water content at which:
+    A) Maximum wet density is achieved
+    B) Maximum dry density is achieved
+    C) Minimum void ratio occurs
+    D) Maximum strength is achieved
+Ans: B
+
+Q121: Zero air voids line represents:
+    A) 100% saturation
+    B) Theoretical maximum dry density for given water content
+    C) Minimum density
+    D) Optimum moisture content
+Ans: B
+
+Q122: The relative compaction is the ratio of:
+    A) Field dry density to maximum dry density
+    B) Maximum dry density to field dry density
+    C) Field wet density to maximum wet density
+    D) OMC to field moisture content
+Ans: A
+
+Q123: Field density can be determined by:
+    A) Only sand replacement method
+    B) Sand replacement method or core cutter method
+    C) Only core cutter method
+    D) Only water displacement method
+Ans: B
+
+Q124: Degree of static indeterminacy refers to:
+    A) Number of equilibrium equations
+    B) Number of redundant forces beyond static equilibrium
+    C) Number of joints
+    D) Number of members
+Ans: B
+
+Q125: Degree of kinematic indeterminacy refers to:
+    A) Number of support reactions
+    B) Number of independent joint displacements
+    C) Number of members
+    D) Number of nodes
+Ans: B
+
+Q126: Force method treats ___ as unknowns:
+    A) Joint displacements
+    B) Redundant forces
+    C) Member forces
+    D) Support reactions
+Ans: B
+
+Q127: Displacement method treats ___ as unknowns:
+    A) Redundant forces
+    B) Joint displacements
+    C) Member end moments
+    D) Support reactions
+Ans: B
+
+Q128: Moment distribution method was developed by:
+    A) Maxwell
+    B) Hardy Cross
+    C) Castigliano
+    D) Mohr
+Ans: B
+
+Q129: Carry-over factor for prismatic members is:
+    A) 1/4
+    B) 1/2
+    C) 1/3
+    D) 2/3
+Ans: B
+
+Q130: Distribution factor is the ratio of:
+    A) Member length to total length
+    B) Member stiffness to sum of stiffnesses at joint
+    C) Member force to total force
+    D) Member moment to total moment
+Ans: B
+
+Q131: Stiffness of a beam with far end fixed is:
+    A) 3EI/L
+    B) 4EI/L
+    C) 2EI/L
+    D) EI/L
+Ans: B
+
+Q132: Stiffness of a beam with far end pinned is:
+    A) 4EI/L
+    B) 3EI/L
+    C) 2EI/L
+    D) EI/L
+Ans: B
+
+Q133: Slope-deflection equation relates end moments to:
+    A) Only rotations
+    B) Rotations and translations
+    C) Only translations
+    D) Only forces
+Ans: B
+
+Q134: Flexibility matrix relates:
+    A) Forces to displacements
+    B) Displacements to forces
+    C) Stresses to strains
+    D) Strains to stresses
+Ans: B
+
+Q135: Stiffness matrix relates:
+    A) Displacements to forces
+    B) Forces to displacements
+    C) Stresses to strains
+    D) Strains to stresses
+Ans: B
+
+Q136: Maxwell-Betti reciprocal theorem states:
+    A) Work done by force A on displacement B equals work done by force B on displacement A
+    B) Displacement at i due to unit load at j equals displacement at j due to unit load at i
+    C) Both A and B
+    D) None of the above
+Ans: C
+
+Q137: Castigliano's first theorem states partial derivative of strain energy with respect to displacement gives:
+    A) Displacement
+    B) Corresponding force
+    C) Stress
+    D) Strain
+Ans: B
+
+Q138: Castigliano's second theorem states partial derivative of strain energy with respect to force gives:
+    A) Force
+    B) Corresponding displacement
+    C) Stress
+    D) Strain
+Ans: B
+
+Q139: Unit load method is used to calculate:
+    A) Forces
+    B) Deflections
+    C) Stresses
+    D) Strains
+Ans: B
+
+Q140: Conjugate beam method uses the ___ as load:
+    A) Bending moment diagram
+    B) M/EI diagram
+    C) Shear force diagram
+    D) Load diagram
+Ans: B
+
+Q141: First moment-area theorem states change in slope equals:
+    A) Moment of M/EI diagram
+    B) Area of M/EI diagram
+    C) Slope of M/EI diagram
+    D) Integral of M/EI diagram
+Ans: B
+
+Q142: Second moment-area theorem states tangential deviation equals:
+    A) Area of M/EI diagram
+    B) Moment of M/EI area about the point
+    C) Slope of M/EI diagram
+    D) Integral of M/EI diagram
+Ans: B
+
+Q143: Influence line diagram shows variation of:
+    A) Load position
+    B) Response function as unit load moves
+    C) Support reactions only
+    D) Member forces only
+Ans: B
+
+Q144: Muller-Breslau principle gives influence line as:
+    A) Load diagram
+    B) Deflected shape when force is removed and unit displacement introduced
+    C) Bending moment diagram
+    D) Shear force diagram
+Ans: B
+
+Q145: Three-moment equation relates moments at:
+    A) Two consecutive supports
+    B) Three consecutive supports
+    C) All supports
+    D) Two ends
+Ans: B
+
+Q146: For a statically determinate truss, m =:
+    A) 2j
+    B) 2j - 3
+    C) 2j - r
+    D) j - 3
+Ans: B
+
+Q147: Method of joints considers equilibrium of:
+    A) Each member
+    B) Each joint
+    C) The entire truss
+    D) A section
+Ans: B
+
+Q148: Method of sections cuts through:
+    A) All members
+    B) Selected members and considers equilibrium of one part
+    C) Only one member
+    D) Only joints
+Ans: B
+
+Q149: At a joint with two non-collinear members and no external load:
+    A) Both members carry force
+    B) Both are zero-force members
+    C) One is zero-force member
+    D) Cannot be determined
+Ans: B
+
+Q150: At a joint with three members where two are collinear and no external load:
+    A) All three carry force
+    B) The non-collinear member is a zero-force member
+    C) The collinear members are zero-force members
+    D) All are zero-force members
+Ans: B
+
+Q151: Portal method assumes interior columns carry:
+    A) Same shear as exterior columns
+    B) Twice the shear of exterior columns
+    C) Half the shear of exterior columns
+    D) No shear
+Ans: B
+
+Q152: Cantilever method assumes axial forces in columns are proportional to:
+    A) Column areas
+    B) Their distances from the centroid of column areas
+    C) Column heights
+    D) Column stiffnesses
+Ans: B
+
+Q153: Matrix stiffness method is also called:
+    A) Force method
+    B) Direct stiffness method
+    C) Flexibility method
+    D) Compatibility method
+Ans: B
+
+Q154: Virtual work principle states external virtual work equals:
+    A) Zero
+    B) Internal virtual work
+    C) External actual work
+    D) Internal actual work
+Ans: B
+
+Q155: A propped cantilever is statically indeterminate to:
+    A) First degree
+    B) First degree
+    C) Second degree
+    D) Third degree
+Ans: B
+
+Q156: A fixed beam is statically indeterminate to:
+    A) First degree
+    B) Second degree
+    C) Third degree
+    D) Fourth degree
+Ans: C
+
+Q157: Point of contraflexure is where:
+    A) Shear force is zero
+    B) Bending moment is zero
+    C) Deflection is maximum
+    D) Slope is zero
+Ans: B
+
+Q158: dV/dx =
+    A) w
+    B) -w
+    C) M
+    D) -M
+Ans: B
+
+Q159: dM/dx =
+    A) -V
+    B) V
+    C) w
+    D) -w
+Ans: B
+
+Q160: Maximum BM in simply supported beam with UDL is:
+    A) wL²/4
+    B) wL²/8
+    C) wL²/12
+    D) wL²/2
+Ans: B
+
+Q161: Maximum deflection of simply supported beam with central point load is:
+    A) PL³/(24EI)
+    B) PL³/(48EI)
+    C) PL³/(96EI)
+    D) PL³/(12EI)
+Ans: B
+
+Q162: Maximum deflection of cantilever with UDL is:
+    A) wL⁴/(6EI)
+    B) wL⁴/(8EI)
+    C) wL⁴/(12EI)
+    D) wL⁴/(24EI)
+Ans: B
+
+Q163: Euler-Bernoulli beam theory assumes:
+    A) Shear deformation is significant
+    B) Plane sections remain plane and perpendicular to neutral axis
+    C) Large deformations
+    D) Rotary inertia effects
+Ans: B
+
+Q164: Timoshenko beam theory accounts for:
+    A) Only bending deformation
+    B) Shear deformation and rotary inertia
+    C) Axial deformation
+    D) Torsional deformation
+Ans: B
+
+Q165: A three-hinged arch is:
+    A) Statically indeterminate
+    B) Statically determinate
+    C) Unstable
+    D) Mechanism
+Ans: B
+
+Q166: A two-hinged arch is statically indeterminate to:
+    A) First degree
+    B) First degree
+    C) Second degree
+    D) Third degree
+Ans: B
+
+Q167: A fixed arch is statically indeterminate to:
+    A) First degree
+    B) Second degree
+    C) Third degree
+    D) Fourth degree
+Ans: C
+
+Q168: The funicular shape of a cable under UDL is:
+    A) Catenary
+    B) Parabola
+    C) Circle
+    D) Ellipse
+Ans: B
+
+Q169: A catenary is the shape of a cable under:
+    A) UDL horizontally
+    B) Its own weight
+    C) Point loads
+    D) No load
+Ans: B
+
+Q170: The degree of static indeterminacy of a rigid frame with m members, j joints, and r reactions is:
+    A) 3m + r - 3j
+    B) 3m + r - 2j
+    C) 2m + r - 3j
+    D) 3m - r - 3j
+Ans: A
+
+Q171: For a beam with both ends fixed carrying UDL, the fixed end moment is:
+    A) wL²/8
+    B) wL²/12
+    C) wL²/24
+    D) wL²/6
+Ans: B
+
+Q172: For a propped cantilever with UDL, the prop reaction is:
+    A) 3wL/8
+    B) 5wL/8
+    C) wL/2
+    D) 3wL/4
+Ans: A
+
+Q173: The flexibility coefficient fij represents:
+    A) Force at i due to unit displacement at j
+    B) Displacement at i due to unit force at j
+    C) Moment at i due to unit rotation at j
+    D) Rotation at i due to unit moment at j
+Ans: B
+
+Q174: The stiffness coefficient kij represents:
+    A) Displacement at i due to unit force at j
+    B) Force at i due to unit displacement at j
+    C) Moment at i due to unit force at j
+    D) Force at i due to unit force at j
+Ans: B
+
+Q175: In moment distribution, if a moment M is applied at a joint with two members of equal stiffness, the distributed moment in each member is:
+    A) M/4
+    B) M/2
+    C) M/3
+    D) 2M/3
+Ans: B
+
+Q176: The moment at the fixed end of a cantilever due to a point load P at the free end is:
+    A) PL/2
+    B) PL
+    C) PL/4
+    D) 2PL
+Ans: B
+
+Q177: The slope at the free end of a cantilever with point load P at free end is:
+    A) PL²/(2EI)
+    B) PL²/(2EI)
+    C) PL³/(3EI)
+    D) PL²/(EI)
+Ans: B
+
+Q178: The deflection at the free end of a cantilever with point load P at free end is:
+    A) PL³/(2EI)
+    B) PL³/(3EI)
+    C) PL³/(6EI)
+    D) PL³/(EI)
+Ans: B
+
+Q179: For a simply supported beam with UDL, the maximum deflection is:
+    A) 5wL⁴/(384EI)
+    B) 5wL⁴/(384EI)
+    C) wL⁴/(384EI)
+    D) 5wL⁴/(192EI)
+Ans: B
+
+Q180: Betti's theorem is valid for:
+    A) Only linear elastic structures
+    B) Linear elastic structures
+    C) Only plastic structures
+    D) Any structure
+Ans: B
+
+Q181: The principle of superposition is applicable to:
+    A) All structures
+    B) Linear elastic structures only
+    C) Plastic structures only
+    D) Statically determinate structures only
+Ans: B
+
+Q182: A mechanism in structural analysis is:
+    A) A stable structure
+    B) An unstable structure with rigid body motion
+    C) A statically indeterminate structure
+    D) A determinate structure
+Ans: B
+
+Q183: The plastic hinge forms when:
+    A) Yield stress is reached at extreme fiber
+    B) Yield stress is reached throughout the section
+    C) Ultimate stress is reached
+    D) Elastic limit is reached
+Ans: B
+
+Q184: The shape factor for a rectangular section is:
+    A) 1.0
+    B) 1.5
+    C) 2.0
+    D) 1.0
+Ans: B
+
+Q185: The shape factor for a circular section is:
+    A) 1.0
+    B) 1.7
+    C) 2.0
+    D) 1.5
+Ans: B
+
+Q186: The shape factor for an I-section is approximately:
+    A) 1.0
+    B) 1.12 to 1.15
+    C) 1.5
+    D) 2.0
+Ans: B
+
+Q187: The collapse load is:
+    A) Less than yield load
+    B) Greater than yield load
+    C) Equal to yield load
+    D) Equal to working load
+Ans: B
+
+Q188: The load factor is the ratio of:
+    A) Working load to collapse load
+    B) Collapse load to working load
+    C) Yield load to working load
+    D) Ultimate load to yield load
+Ans: B
+
+Q189: In plastic analysis, the number of plastic hinges required for collapse of a beam is:
+    A) 1
+    B) r + 1 where r is degree of indeterminacy
+    C) 2
+    D) Equal to degree of indeterminacy
+Ans: B
+
+Q190: The lower bound theorem states that any load calculated from a statically admissible moment distribution is:
+    A) Greater than collapse load
+    B) Less than or equal to collapse load
+    C) Equal to collapse load
+    D) Greater than or equal to collapse load
+Ans: B
+
+Q191: The upper bound theorem states that any load calculated from an assumed mechanism is:
+    A) Less than collapse load
+    B) Greater than or equal to collapse load
+    C) Equal to collapse load
+    D) Less than or equal to collapse load
+Ans: B
+
+Q192: For a fixed beam with central point load, the collapse load is:
+    A) 2Mp/L
+    B) 4Mp/L
+    C) 6Mp/L
+    D) 8Mp/L
+Ans: C
+
+Q193: For a simply supported beam with UDL, the plastic moment at collapse is:
+    A) wL²/8
+    B) wL²/16
+    C) wL²/12
+    D) wL²/24
+Ans: B
+
+Q194: The kinematic indeterminacy of a plane truss with j joints is:
+    A) 2j - r
+    B) 2j - m - r
+    C) 2j
+    D) j - r
+Ans: A
+
+Q195: The kinematic indeterminacy of a rigid-jointed plane frame with j joints is:
+    A) 2j - r
+    B) 3j - r
+    C) 3j
+    D) 2j
+Ans: B
+
+Q196: A sway frame is one that:
+    A) Has no lateral displacement
+    B) Has lateral displacement under loading
+    C) Has only vertical loads
+    D) Is statically determinate
+Ans: B
+
+Q197: The sidesway in a frame is prevented by:
+    A) Adding hinges
+    B) Adding bracing or making columns fixed
+    C) Removing members
+    D) Adding loads
+Ans: B
+
+Q198: Working stress method keeps stresses within:
+    A) Ultimate limits
+    B) Permissible limits
+    C) Yield limits
+    D) Elastic limits
+Ans: B
+
+Q199: Limit state method considers:
+    A) Only strength
+    B) Strength and serviceability with partial safety factors
+    C) Only serviceability
+    D) Only durability
+Ans: B
+
+Q200: Modular ratio m = 280/(3σcbc) is used in:
+    A) Limit state method
+    B) Working stress method
+    C) Ultimate load method
+    D) Plastic method
+Ans: B
+
+Q201: In a singly reinforced beam, the neutral axis separates:
+    A) Tension and compression zones
+    B) Compression zone from tension zone
+    C) Steel from concrete
+    D) Top from bottom
+Ans: B
+
+Q202: Balanced section is where:
+    A) Steel yields after concrete crushes
+    B) Steel yields and concrete crushes simultaneously
+    C) Concrete crushes before steel yields
+    D) Only steel yields
+Ans: B
+
+Q203: Under-reinforced section shows:
+    A) Brittle failure
+    B) Ductile failure
+    C) Sudden collapse
+    D) No warning
+Ans: B
+
+Q204: Over-reinforced section shows:
+    A) Ductile failure
+    B) Brittle failure
+    C) Gradual failure
+    D) Yielding failure
+Ans: B
+
+Q205: Limiting moment of resistance Mu,lim for Fe 415 with Xu,max = 0.48d is approximately:
+    A) 0.36 fck b d²
+    B) 0.138 fck b d²
+    C) 0.148 fck b d²
+    D) 0.156 fck b d²
+Ans: B
+
+Q206: Effective depth of a beam is measured from:
+    A) Top face to bottom face
+    B) Extreme compression fiber to centroid of tension steel
+    C) Top face to centroid of compression steel
+    D) Center to center of supports
+Ans: B
+
+Q207: Effective span is the lesser of:
+    A) Clear span and center-to-center distance
+    B) Center-to-center distance between supports or clear span plus effective depth
+    C) Overall depth and clear span
+    D) Span length and width
+Ans: B
+
+Q208: Nominal cover is provided for:
+    A) Only strength
+    B) Durability and fire resistance
+    C) Only aesthetics
+    D) Only economy
+Ans: B
+
+Q209: Development length ensures:
+    A) Aesthetic appearance
+    B) Design strength of reinforcement is developed at critical section
+    C) Concrete compaction
+    D) Crack control
+Ans: B
+
+Q210: Anchorage bond stress τbd =
+    A) φσs/(2Ld)
+    B) φσs/(4Ld)
+    C) 4σs/(φLd)
+    D) σs/(φLd)
+Ans: B
+
+Q211: Minimum reinforcement in beam As,min =
+    A) (0.4/fy) × b × d
+    B) (0.85/fy) × b × d
+    C) (1.0/fy) × b × d
+    D) (0.5/fy) × b × d
+Ans: B
+
+Q212: Maximum reinforcement in beam As,max =
+    A) 0.02 bD
+    B) 0.04 bD
+    C) 0.06 bD
+    D) 0.08 bD
+Ans: B
+
+Q213: Shear reinforcement in RCC beams is provided as:
+    A) Main bars
+    B) Stirrups
+    C) Distribution bars
+    D) Temperature bars
+Ans: B
+
+Q214: Nominal shear stress τv =
+    A) Vu/(b+d)
+    B) Vu/(b×d)
+    C) Vu×b/d
+    D) Vu×d/b
+Ans: B
+
+Q215: Design shear strength of concrete τc depends on:
+    A) Only concrete grade
+    B) Concrete grade and percentage of tension steel
+    C) Only steel grade
+    D) Only beam depth
+Ans: B
+
+Q216: Torsional reinforcement includes:
+    A) Only stirrups
+    B) Additional longitudinal and transverse reinforcement
+    C) Only main bars
+    D) Only distribution bars
+Ans: B
+
+Q217: Equivalent shear Veq = Vu +
+    A) Tu/b
+    B) 1.6(Tu/b)
+    C) 2(Tu/b)
+    D) 0.8(Tu/b)
+Ans: B
+
+Q218: A doubly reinforced beam has reinforcement:
+    A) Only in tension zone
+    B) In both tension and compression zones
+    C) Only in compression zone
+    D) Only in web
+Ans: B
+
+Q219: A T-beam consists of:
+    A) Only web
+    B) Flange and web
+    C) Only flange
+    D) Two webs
+Ans: B
+
+Q220: Effective width of flange bf = lo/6 + bw + 6Df is:
+    A) Minimum value
+    B) One of the limiting values
+    C) Maximum value
+    D) Exact value
+Ans: B
+
+Q221: One-way slab has ly/lx:
+    A) Less than 2
+    B) Greater than 2
+    C) Equal to 2
+    D) Equal to 1
+Ans: B
+
+Q222: Two-way slab has ly/lx:
+    A) Greater than 2
+    B) Less than or equal to 2
+    C) Equal to 1
+    D) Greater than 3
+Ans: B
+
+Q223: Moment coefficient method for slabs uses coefficients from:
+    A) IS 456 Table 12
+    B) IS 456 Table 26
+    C) IS 800 Table 8
+    D) IS 875 Table 4
+Ans: B
+
+Q224: Yield line theory is a:
+    A) Elastic analysis method
+    B) Upper bound plastic analysis method
+    C) Lower bound method
+    D) Working stress method
+Ans: B
+
+Q225: A flat slab is supported:
+    A) On beams
+    B) Directly on columns
+    C) On walls
+    D) On foundations
+Ans: B
+
+Q226: Punching shear in flat slabs occurs:
+    A) At mid-span
+    B) Around the column perimeter
+    C) At beam supports
+    D) At slab edges
+Ans: B
+
+Q227: Critical section for punching shear is at:
+    A) Face of column
+    B) d/2 from face of column
+    C) d from face of column
+    D) 2d from face of column
+Ans: B
+
+Q228: Column strip width in flat slab is:
+    A) ly/2
+    B) Lesser of ly/4 or lx/4 on each side
+    C) lx/2
+    D) ly/6
+Ans: B
+
+Q229: A retaining wall resists:
+    A) Vertical loads only
+    B) Lateral pressure of soil
+    C) Wind loads only
+    D) Seismic loads only
+Ans: B
+
+Q230: Active earth pressure is:
+    A) Maximum lateral pressure
+    B) Minimum lateral pressure when wall moves away
+    C) Pressure at rest
+    D) Hydrostatic pressure
+Ans: B
+
+Q231: Passive earth pressure is:
+    A) Minimum lateral pressure
+    B) Maximum lateral pressure when wall moves towards backfill
+    C) Pressure at rest
+    D) Active pressure
+Ans: B
+
+Q232: At-rest earth pressure coefficient Ko =
+    A) 1 + sin φ
+    B) 1 - sin φ
+    C) tan²(45+φ/2)
+    D) tan²(45-φ/2)
+Ans: B
+
+Q233: Rankine's theory assumes:
+    A) Wall friction
+    B) Smooth wall back and planar failure surface
+    C) Rough wall
+    D) Curved failure surface
+Ans: B
+
+Q234: Coulomb's theory considers:
+    A) Only smooth wall
+    B) Wall friction and planar failure surface
+    C) No wall movement
+    D) Vertical wall only
+Ans: B
+
+Q235: Factor of safety against overturning for retaining wall is typically:
+    A) 1.2
+    B) 2.0
+    C) 1.5
+    D) 3.0
+Ans: B
+
+Q236: Factor of safety against sliding is typically:
+    A) 2.0
+    B) 1.5
+    C) 1.2
+    D) 3.0
+Ans: B
+
+Q237: A counterfort retaining wall has counterforts on:
+    A) Front side
+    B) Backfill side connecting stem and base
+    C) Both sides
+    D) Only at corners
+Ans: B
+
+Q238: A buttress wall has buttresses on:
+    A) Backfill side
+    B) Front (toe) side
+    C) Both sides
+    D) Top only
+Ans: B
+
+Q239: A gravity wall relies on:
+    A) Reinforcement
+    B) Its own weight
+    C) Anchors
+    D) Piles
+Ans: B
+
+Q240: Slenderness ratio of a column is:
+    A) Length/width
+    B) Effective length/least lateral dimension
+    C) Width/depth
+    D) Height/width
+Ans: B
+
+Q241: Short column has slenderness ratio:
+    A) Greater than 12
+    B) Less than 12
+    C) Equal to 12
+    D) Greater than 20
+Ans: B
+
+Q242: Long column has slenderness ratio:
+    A) Less than 12
+    B) Greater than 12
+    C) Equal to 12
+    D) Less than 8
+Ans: B
+
+Q243: Euler buckling load PE =
+    A) πEI/Le²
+    B) π²EI/Le²
+    C) π²E/Le²
+    D) πEI²/Le²
+Ans: B
+
+Q244: Permissible stress in direct compression for steel is:
+    A) 0.4 fy
+    B) 0.6 fy
+    C) 0.66 fy
+    D) 0.8 fy
+Ans: B
+
+Q245: Permissible stress in bending compression for steel is:
+    A) 0.6 fy
+    B) 0.66 fy
+    C) 0.75 fy
+    D) 0.5 fy
+Ans: B
+
+Q246: Slenderness ratio limit for compression members is:
+    A) 100
+    B) 180 for main members
+    C) 250
+    D) 350
+Ans: B
+
+Q247: Effective length factor for column fixed at both ends is:
+    A) 1.0L
+    B) 0.65L
+    C) 0.8L
+    D) 2.0L
+Ans: B
+
+Q248: Effective length factor for column pinned at both ends is:
+    A) 0.65L
+    B) 1.0L
+    C) 0.8L
+    D) 2.0L
+Ans: B
+
+Q249: Effective length factor for column fixed-pinned is:
+    A) 0.65L
+    B) 0.8L
+    C) 1.0L
+    D) 2.0L
+Ans: B
+
+Q250: Effective length factor for column fixed-free is:
+    A) 1.0L
+    B) 2.0L
+    C) 0.8L
+    D) 0.65L
+Ans: B
+
+Q251: Slenderness ratio limit for tension members is:
+    A) 180
+    B) 350 for reversal of stress
+    C) 250
+    D) 400
+Ans: B
+
+Q252: A laced column has components connected by:
+    A) Batten plates
+    B) Lacing bars in zigzag pattern
+    C) Welds only
+    D) Rivets only
+Ans: B
+
+Q253: A battened column has components connected by:
+    A) Lacing bars
+    B) Batten plates at intervals
+    C) Welds continuously
+    D) Only bolts
+Ans: B
+
+Q254: Net sectional area =
+    A) Gross area + hole area
+    B) Gross area - hole area
+    C) Gross area × hole area
+    D) Gross area / hole area
+Ans: B
+
+Q255: Efficiency of a tension joint =
+    A) Strength of solid plate / Strength of joint
+    B) Strength of joint / Strength of solid plate
+    C) Gross area / Net area
+    D) Net area / Gross area
+Ans: B
+
+Q256: Bearing type connection transfers load by:
+    A) Friction
+    B) Bearing of bolts against plates
+    C) Shear in bolts only
+    D) Tension in bolts
+Ans: B
+
+Q257: Friction type connection transfers load by:
+    A) Bearing
+    B) Friction between connected plates
+    C) Shear in bolts
+    D) Tension in bolts
+Ans: B
+
+Q258: Throat thickness of fillet weld =
+    A) 0.5 × weld size
+    B) 0.7 × weld size
+    C) 1.0 × weld size
+    D) 0.9 × weld size
+Ans: B
+
+Q259: Permissible shear stress for shop fillet welds is:
+    A) 100 N/mm²
+    B) 110 N/mm²
+    C) 120 N/mm²
+    D) 90 N/mm²
+Ans: B
+
+Q260: A gusset plate is used to:
+    A) Increase beam depth
+    B) Connect structural members at a joint
+    C) Support slab
+    D) Provide lateral bracing
+Ans: B
+
+Q261: Shape factor =
+    A) Ze/Zp
+    B) Zp/Ze
+    C) Mp/My
+    D) My/Mp
+Ans: B
+
+Q262: Plastic moment capacity Mp =
+    A) fy × Ze
+    B) fy × Zp
+    C) 0.87 fy × Zp
+    D) 0.66 fy × Zp
+Ans: B
+
+Q263: Combined bending and axial load interaction equation is:
+    A) fa/Fa + fbx/Fbx + fby/Fby ≤ 1.0
+    B) fa/Fa + fbx/Fbx + fby/Fby ≤ 1.0
+    C) fa/Fa × fbx/Fbx × fby/Fby ≤ 1.0
+    D) fa/Fa + fbx/Fbx ≤ 1.0
+Ans: B
+
+Q264: Lateral-torsional buckling occurs in:
+    A) Axially loaded columns
+    B) Beams inadequate laterally
+    C) Tension members
+    D) Short columns
+Ans: B
+
+Q265: Web crippling is:
+    A) Overall buckling of web
+    B) Local failure due to concentrated load
+    C) Shear failure
+    D) Bending failure
+Ans: B
+
+Q266: Stiffeners in plate girders prevent:
+    A) Only bending
+    B) Web buckling and crippling
+    C) Only flange buckling
+    D) Lateral buckling
+Ans: B
+
+Q267: The hydrologic cycle involves circulation between:
+    A) Land and atmosphere only
+    B) Oceans, atmosphere, and land
+    C) Rivers and lakes only
+    D) Groundwater and surface water only
+Ans: B
+
+Q268: Precipitation includes:
+    A) Only rainfall
+    B) Rain, snow, sleet, and hail
+    C) Only snowfall
+    D) Only drizzle
+Ans: B
+
+Q269: IDF curve shows relationship between:
+    A) Intensity, duration, and frequency
+    B) Intensity, duration, and frequency of rainfall
+    C) Intensity and depth only
+    D) Duration and area only
+Ans: B
+
+Q270: Thiessen polygon method assigns weights based on:
+    A) Distance from gauge
+    B) Area of influence of each rain gauge
+    C) Elevation of gauge
+    D) Number of gauges
+Ans: B
+
+Q271: Isohyetal method uses lines of:
+    A) Equal temperature
+    B) Equal rainfall
+    C) Equal pressure
+    D) Equal elevation
+Ans: B
+
+Q272: Arithmetic mean method calculates average rainfall by:
+    A) Weighted average
+    B) Arithmetic mean of all gauge readings
+    C) Geometric mean
+    D) Harmonic mean
+Ans: B
+
+Q273: Mass curve of rainfall is a plot of:
+    A) Rainfall intensity vs time
+    B) Cumulative rainfall vs time
+    C) Rainfall depth vs area
+    D) Discharge vs time
+Ans: B
+
+Q274: Hyetograph shows:
+    A) Cumulative rainfall
+    B) Rainfall intensity vs time
+    C) Discharge vs time
+    D) Stage vs time
+Ans: B
+
+Q275: Infiltration capacity is:
+    A) Minimum rate of water absorption
+    B) Maximum rate at which soil can absorb water
+    C) Average rate of absorption
+    D) Constant rate of absorption
+Ans: B
+
+Q276: Horton's infiltration equation is f = fc + (f0 - fc)e^(-kt) where fc is:
+    A) Initial infiltration rate
+    B) Final constant infiltration rate
+    C) Average rate
+    D) Maximum rate
+Ans: B
+
+Q277: φ-index is calculated as:
+    A) Total rainfall / Duration
+    B) (Total rainfall - Total runoff) / Duration of rainfall excess
+    C) Total runoff / Duration
+    D) Infiltration / Duration
+Ans: B
+
+Q278: Runoff coefficient is the ratio of:
+    A) Rainfall to runoff
+    B) Runoff to rainfall
+    C) Evaporation to rainfall
+    D) Infiltration to rainfall
+Ans: B
+
+Q279: Rational method for peak discharge: Q =
+    A) C × A
+    B) C × i × A
+    C) C × i / A
+    D) i × A / C
+Ans: B
+
+Q280: Time of concentration is:
+    A) Time for water to travel from outlet to farthest point
+    B) Time for water to travel from most remote point to outlet
+    C) Duration of rainfall
+    D) Time of peak flow
+Ans: B
+
+Q281: Unit hydrograph is the DRH from:
+    A) Any amount of effective rainfall
+    B) One unit of effective rainfall uniformly distributed
+    C) Total storm rainfall
+    D) Direct runoff only
+Ans: B
+
+Q282: S-curve is obtained by:
+    A) Single unit hydrograph
+    B) Summing infinite series of unit hydrographs
+    C) Differentiating unit hydrograph
+    D) Integrating unit hydrograph
+Ans: B
+
+Q283: Instantaneous unit hydrograph is the limiting form as duration approaches:
+    A) Unit duration
+    B) Zero
+    C) Infinity
+    D) Time of concentration
+Ans: B
+
+Q284: Nash model for IUH uses:
+    A) Normal distribution
+    B) Gamma distribution
+    C) Log-normal distribution
+    D) Exponential distribution
+Ans: B
+
+Q285: SCS curve number method estimates:
+    A) Peak discharge only
+    B) Direct runoff using curve number
+    C) Base flow
+    D) Evapotranspiration
+Ans: B
+
+Q286: Muskingum routing uses S = K[xI + (1-x)O] where x is:
+    A) Storage constant
+    B) Weighting factor between 0 and 0.5
+    C) Time step
+    D) Discharge
+Ans: B
+
+Q287: Kinematic wave routing assumes:
+    A) Full dynamic equations
+    B) Momentum equation reduces to uniform flow equation
+    C) Only continuity equation
+    D) Diffusion wave equation
+Ans: B
+
+Q288: Dynamic wave routing solves:
+    A) Only continuity equation
+    B) Full Saint-Venant equations
+    C) Kinematic wave equations
+    D) Diffusion equations
+Ans: B
+
+Q289: Saint-Venant equations consist of:
+    A) Only momentum equation
+    B) Continuity and momentum equations
+    C) Only continuity equation
+    D) Energy and momentum equations
+Ans: B
+
+Q290: Evaporation is the process of:
+    A) Water changing from vapor to liquid
+    B) Water changing from liquid to vapor
+    C) Water moving through soil
+    D) Water flowing in rivers
+Ans: B
+
+Q291: Transpiration is the release of water vapor from:
+    A) Soil surface
+    B) Plant leaves
+    C) Rivers
+    D) Lakes
+Ans: B
+
+Q292: Evapotranspiration is:
+    A) Only evaporation
+    B) Only transpiration
+    C) Combined evaporation and transpiration
+    D) Only interception
+Ans: B
+
+Q293: Potential evapotranspiration (PET) occurs when:
+    A) Water supply is limited
+    B) There is unlimited water supply
+    C) Soil is dry
+    D) Plants are dormant
+Ans: B
+
+Q294: Penman-Monteith equation uses:
+    A) Only energy balance
+    B) Energy balance and aerodynamic methods
+    C) Only temperature
+    D) Only humidity
+Ans: B
+
+Q295: Groundwater exists in:
+    A) Only rivers
+    B) Pore spaces and fractures of subsurface formations
+    C) Only lakes
+    D) Only atmosphere
+Ans: B
+
+Q296: Water table is the upper surface of:
+    A) Unsaturated zone
+    B) Zone of saturation
+    C) Impervious layer
+    D) Confined aquifer
+Ans: B
+
+Q297: An aquifer can:
+    A) Only store water
+    B) Store and transmit significant quantities of water
+    C) Only transmit water
+    D) Neither store nor transmit water
+Ans: B
+
+Q298: An aquitard can:
+    A) Store and transmit water freely
+    B) Store water but transmit very slowly
+    C) Neither store nor transmit
+    D) Only transmit water
+Ans: B
+
+Q299: An aquiclude can:
+    A) Transmit water freely
+    B) Store water but is essentially impermeable
+    C) Neither store nor transmit
+    D) Only store water temporarily
+Ans: B
+
+Q300: Specific yield is the ratio of:
+    A) Water retained to total volume
+    B) Water drained by gravity to total volume
+    C) Water stored to water retained
+    D) Void volume to total volume
+Ans: B
+
+Q301: Specific retention is the ratio of:
+    A) Water drained to total volume
+    B) Water retained against gravity to total volume
+    C) Total water to void volume
+    D) Void volume to solid volume
+Ans: B
+
+Q302: Porosity =
+    A) Specific yield - specific retention
+    B) Specific yield + specific retention
+    C) Specific yield / specific retention
+    D) Specific retention / specific yield
+Ans: B
+
+Q303: Darcy's law for groundwater: Q =
+    A) K × A × dh
+    B) K × A × (dh/dl)
+    C) K × dh / A
+    D) A × dh / K
+Ans: B
+
+Q304: Transmissivity T =
+    A) K + b
+    B) K × b
+    C) K / b
+    D) b / K
+Ans: B
+
+Q305: Storativity of confined aquifer is:
+    A) Volume per unit area
+    B) Volume released per unit area per unit head decline
+    C) Volume per unit head
+    D) Area per unit volume
+Ans: B
+
+Q306: Theis equation for radial flow: s =
+    A) (Q/4πT) × u
+    B) (Q/4πT) × W(u)
+    C) (Q/2πT) × W(u)
+    D) (Q/πT) × W(u)
+Ans: B
+
+Q307: Cooper-Jacob approximation is valid when:
+    A) u > 0.1
+    B) u < 0.01
+    C) u = 0.1
+    D) u = 1.0
+Ans: B
+
+Q308: Dupuit-Forchheimer assumptions include:
+    A) Vertical flow only
+    B) Horizontal flow and vertical equipotential lines
+    C) Radial flow only
+    D) No flow
+Ans: B
+
+Q309: Specific capacity of a well is:
+    A) Drawdown per unit discharge
+    B) Discharge per unit drawdown (Q/s)
+    C) Total discharge
+    D) Total drawdown
+Ans: B
+
+Q310: Cone of depression is:
+    A) A rise in water level
+    B) The drawdown surface around a pumping well
+    C) A mound in water table
+    D) A fault in aquifer
+Ans: B
+
+Q311: Radius of influence is the distance where:
+    A) Drawdown is maximum
+    B) Drawdown is negligible
+    C) Discharge is maximum
+    D) Pumping stops
+Ans: B
+
+Q312: Artificial recharge methods include:
+    A) Only wells
+    B) Infiltration basins, recharge wells, etc.
+    C) Only dams
+    D) Only canals
+Ans: B
+
+Q313: Gumbel distribution is used for:
+    A) Normal rainfall analysis
+    B) Extreme value (flood) analysis
+    C) Groundwater analysis
+    D) Evaporation analysis
+Ans: B
+
+Q314: Return period is the average interval within which a flood is:
+    A) Never exceeded
+    B) Equaled or exceeded once
+    C) Always exceeded
+    D) Only equaled
+Ans: B
+
+Q315: Probable Maximum Flood (PMF) is:
+    A) Average flood
+    B) Flood from most severe combination of conditions
+    C) 100-year flood
+    D) Design flood
+Ans: B
+
+Q316: Standard Project Flood (SPF) is:
+    A) Same as PMF
+    B) Less severe than PMF but reasonably applicable
+    C) More severe than PMF
+    D) Average annual flood
+Ans: B
+
+Q317: Design flood is based on:
+    A) Only safety
+    B) Economic and safety considerations
+    C) Only economic factors
+    D) Historical maximum only
+Ans: B
+
+Q318: Freeboard in a dam is the distance between:
+    A) Minimum and maximum water levels
+    B) Maximum water level and top of dam
+    C) Foundation and base
+    D) Crest and spillway
+Ans: B
+
+Q319: Drainage density is:
+    A) Area / Total stream length
+    B) Total stream length / Area
+    C) Number of streams / Area
+    D) Area / Number of streams
+Ans: B
+
+Q320: Bifurcation ratio is the ratio of:
+    A) Number of streams of same order
+    B) Number of streams of given order to next higher order
+    C) Total streams to basin area
+    D) Stream length to basin area
+Ans: B
+
+Q321: Stream order (Strahler) is a:
+    A) Random numbering
+    B) Hierarchical ranking of streams
+    C) Length classification
+    D) Flow classification
+Ans: B
+
+Q322: Form factor of a basin =
+    A) Basin length² / Area
+    B) Area / Basin length²
+    C) Perimeter / Area
+    D) Area / Perimeter
+Ans: B
+
+Q323: Compactness coefficient is the ratio of:
+    A) Basin area to circle area
+    B) Basin perimeter to perimeter of circle with same area
+    C) Basin area to perimeter
+    D) Perimeter to area
+Ans: B
+
+Q324: Irrigation is the artificial application of water to:
+    A) Buildings
+    B) Land to assist crop growth
+    C) Rivers
+    D) Roads
+Ans: B
+
+Q325: Duty of water is the area irrigated by:
+    A) Any discharge
+    B) Unit discharge flowing continuously throughout base period
+    C) Maximum discharge
+    D) Minimum discharge
+Ans: B
+
+Q326: Delta of a crop is the:
+    A) Area irrigated
+    B) Total depth of water required during entire growth period
+    C) Duration of irrigation
+    D) Frequency of irrigation
+Ans: B
+
+Q327: Base period is the time from:
+    A) Sowing to harvesting
+    B) First watering at sowing to last watering before harvesting
+    C) Germination to flowering
+    D) Planting to first irrigation
+Ans: B
+
+Q328: Relationship: Δ = 8.64 × B / D, where Δ is in:
+    A) cm
+    B) meters
+    C) mm
+    D) feet
+Ans: B
+
+Q329: Kor watering is:
+    A) Last watering
+    B) First watering immediately after sowing
+    C) Intermediate watering
+    D) Pre-sowing irrigation
+Ans: B
+
+Q330: Paleo irrigation is given:
+    A) After sowing
+    B) Before sowing
+    C) During flowering
+    D) At harvest
+Ans: B
+
+Q331: Outlet factor is the duty at:
+    A) Field
+    B) Head of watercourse
+    C) Canal head
+    D) River
+Ans: B
+
+Q332: Time factor is the ratio of:
+    A) Total days to watering days
+    B) Actual running days to watering period days
+    C) Watering days to total days
+    D) Peak days to average days
+Ans: B
+
+Q333: Capacity factor is the ratio of:
+    A) Maximum to mean discharge
+    B) Mean discharge to maximum discharge
+    C) Minimum to maximum discharge
+    D) Design to actual discharge
+Ans: B
+
+Q334: Irrigation efficiency is the ratio of:
+    A) Water delivered to water used
+    B) Water beneficially used to water delivered
+    C) Water lost to water delivered
+    D) Water stored to water applied
+Ans: B
+
+Q335: Water application efficiency =
+    A) Water stored / Water delivered
+    B) Water stored in root zone / Water delivered to field
+    C) Water used / Water delivered
+    D) Water delivered / Water applied
+Ans: B
+
+Q336: Conveyance efficiency =
+    A) Water at source / Water at field
+    B) Water delivered to field / Water released from source
+    C) Water used / Water delivered
+    D) Water lost / Water delivered
+Ans: B
+
+Q337: Field capacity is the maximum water a soil can hold:
+    A) At saturation
+    B) Against gravity after drainage
+    C) At wilting point
+    D) At saturation minus drainage
+Ans: B
+
+Q338: Permanent wilting point is when:
+    A) Soil is dry
+    B) Plants can no longer extract water and wilt permanently
+    C) Soil is at field capacity
+    D) Soil is saturated
+Ans: B
+
+Q339: Available moisture =
+    A) Field capacity + wilting point
+    B) Field capacity - wilting point
+    C) Wilting point - field capacity
+    D) Field capacity × wilting point
+Ans: B
+
+Q340: Gross Command Area (GCA) includes:
+    A) Only culturable area
+    B) Total area including culturable and unculturable
+    C) Only irrigated area
+    D) Only cropped area
+Ans: B
+
+Q341: Culturable Command Area (CCA) is:
+    A) Total command area
+    B) Area suitable for cultivation and irrigation
+    C) Only unculturable area
+    D) Only forest area
+Ans: B
+
+Q342: Intensity of irrigation is:
+    A) Total CCA irrigated
+    B) Percentage of CCA actually irrigated in a year
+    C) Area under crops
+    D) Area under water
+Ans: B
+
+Q343: Waterlogging is a condition where:
+    A) Soil is too dry
+    B) Soil becomes saturated with water
+    C) Soil is compacted
+    D) Soil is eroded
+Ans: B
+
+Q344: Drainage coefficient is the depth of water to be removed in:
+    A) 1 hour
+    B) 24 hours
+    C) 1 week
+    D) 1 month
+Ans: B
+
+Q345: Surface drainage removes excess water through:
+    A) Buried pipes
+    B) Open ditches or channels
+    C) Tile drains
+    D) Wells
+Ans: B
+
+Q346: Subsurface drainage removes water through:
+    A) Open channels
+    B) Buried pipes or tile drains
+    C) Sprinklers
+    D) Pumps
+Ans: B
+
+Q347: Kennedy's theory states a channel is in regime when:
+    A) No sediment is carried
+    B) Silt is kept in suspension by eddies from bed and sides
+    C) Velocity is maximum
+    D) Slope is minimum
+Ans: B
+
+Q348: Lacey's theory is based on:
+    A) Only velocity
+    B) Concept of tractive force
+    C) Only slope
+    D) Only discharge
+Ans: B
+
+Q349: Critical velocity in Kennedy's theory: Vo =
+    A) 0.55 m D
+    B) 0.55 m D^0.64
+    C) 0.55 D
+    D) 0.55 m / D
+Ans: B
+
+Q350: Silt factor in Lacey's theory: f =
+    A) 1.76 d
+    B) 1.76√d
+    C) 1.76/d
+    D) 1.76 × d²
+Ans: B
+
+Q351: Regime channel carries constant discharge and sediment without:
+    A) Any flow
+    B) Scour or silting
+    C) Velocity variation
+    D) Depth variation
+Ans: B
+
+Q352: Regime slope in Lacey's theory: S =
+    A) f^(3/2)/(3340 Q^(1/6))
+    B) f^(5/3)/(3340 Q^(1/6))
+    C) f^(2/3)/(3340 Q^(1/6))
+    D) f^(1/3)/(3340 Q^(1/6))
+Ans: B
+
+Q353: Head regulator controls flow:
+    A) Within the canal
+    B) From parent channel to canal
+    C) To the field
+    D) To the river
+Ans: B
+
+Q354: Cross regulator is built:
+    A) At canal head
+    B) Across parent canal downstream of off-taking canal
+    C) At distributary head
+    D) At canal tail
+Ans: B
+
+Q355: Escape channel is provided to:
+    A) Increase flow
+    B) Dispose of excess water
+    C) Measure discharge
+    D) Control sediment
+Ans: B
+
+Q356: A fall in a canal is constructed to:
+    A) Increase velocity
+    B) Lower water level when ground slope changes suddenly
+    C) Raise water level
+    D) Measure flow
+Ans: B
+
+Q357: A super passage carries:
+    A) Drain over canal
+    B) Canal over drain
+    C) Canal and drain at same level
+    D) Canal through drain
+Ans: B
+
+Q358: An aqueduct carries:
+    A) Drain over canal
+    B) Canal over drain
+    C) Canal and drain at same level
+    D) Canal under drain
+Ans: B
+
+Q359: A level crossing is where canal and drain:
+    A) Cross at different levels
+    B) Cross at the same level
+    C) Do not cross
+    D) Cross underground
+Ans: B
+
+Q360: A syphon aqueduct is where:
+    A) Canal passes over drain
+    B) Drain passes through canal embankment in syphon barrel
+    C) Canal passes through drain
+    D) Both at same level
+Ans: B
+
+Q361: A canal syphon is where:
+    A) Drain passes over canal
+    B) Canal passes through drainage channel under pressure
+    C) Canal and drain at same level
+    D) Drain passes through canal
+Ans: B
+
+Q362: A weir has a:
+    A) Adjustable crest
+    B) Fixed crest
+    C) No crest
+    D) Movable gate
+Ans: B
+
+Q363: A barrage has:
+    A) Fixed crest
+    B) Adjustable gates
+    C) No crest
+    D) Fixed gates
+Ans: B
+
+Q364: Difference between weir and barrage is:
+    A) Material only
+    B) Weir has fixed crest, barrage has adjustable gates
+    C) Size only
+    D) Location only
+Ans: B
+
+Q365: Pondage in a barrage is:
+    A) Storage below minimum level
+    B) Storage created by raising water level upstream
+    C) Dead storage
+    D) Live storage
+Ans: B
+
+Q366: Headworks includes:
+    A) Only weir
+    B) Weir/barrage, head regulator, and undersluices
+    C) Only canal
+    D) Only river
+Ans: B
+
+Q367: Undersluice has:
+    A) Higher crest
+    B) Lower crest with gates to flush sediment
+    C) No gates
+    D) Fixed crest only
+Ans: B
+
+Q368: Divide wall separates:
+    A) Canal from river
+    B) Undersluice from rest of weir
+    C) Two canals
+    D) Canal from drain
+Ans: B
+
+Q369: Fish ladder allows:
+    A) Boats to pass
+    B) Fish to migrate past dam/weir
+    C) Sediment to pass
+    D) Water to overflow
+Ans: B
+
+Q370: Silt excluder is placed:
+    A) In the canal
+    B) In front of head regulator to exclude sediment
+    C) At canal tail
+    D) In the river
+Ans: B
+
+Q371: Silt ejector is placed:
+    A) At canal head
+    B) In canal downstream of head regulator to eject sediment
+    C) At canal tail
+    D) In the river
+Ans: B
+
+Q372: Lining of a canal is provided to:
+    A) Increase velocity only
+    B) Reduce seepage losses and prevent erosion
+    C) Decrease velocity
+    D) Increase width
+Ans: B
+
+Q373: Canal lining reduces seepage losses by:
+    A) 10-20%
+    B) 60-80%
+    C) 100%
+    D) 20-30%
+Ans: B
+
+Q374: The most efficient canal section is:
+    A) Rectangular
+    B) Semi-circular
+    C) Triangular
+    D) Trapezoidal
+Ans: B
+
+Q375: For most economical rectangular channel, b =
+    A) y
+    B) 2y
+    C) 3y
+    D) 4y
+Ans: B
+
+Q376: For most economical trapezoidal channel, half top width equals:
+    A) Bottom width
+    B) Sloping side length
+    C) Depth
+    D) Hydraulic radius
+Ans: B
+
+Q377: Canal losses include:
+    A) Only evaporation
+    B) Evaporation, seepage, and absorption
+    C) Only seepage
+    D) Only absorption
+Ans: B
+
+Q378: Water allowance is:
+    A) Total water available
+    B) Water required per unit CCA
+    C) Water lost in conveyance
+    D) Water stored in reservoir
+Ans: B
+
+Q379: Kor depth is:
+    A) Minimum depth required
+    B) Maximum depth of water required at any single watering
+    C) Average depth
+    D) Total depth for crop
+Ans: B
+
+Q380: The crop period is:
+    A) Same as base period
+    B) Time from sowing to harvesting
+    C) Time between two irrigations
+    D) Duration of growth
+Ans: B
+
+Q381: Consumptive use of water is:
+    A) Only evaporation
+    B) Total water used by crop in transpiration and evaporation
+    C) Only transpiration
+    D) Only deep percolation
+Ans: B
+
+Q382: The duty of water increases:
+    A) From head to tail of canal
+    B) From head to tail of canal due to losses
+    C) Remains constant
+    D) Decreases from head to tail
+Ans: B
+
+Q383: Water treatment process includes:
+    A) Only filtration
+    B) Coagulation, sedimentation, filtration, and disinfection
+    C) Only chlorination
+    D) Only boiling
+Ans: B
+
+Q384: Coagulation in water treatment involves:
+    A) Filtering water
+    B) Adding chemicals to destabilize colloidal particles
+    C) Boiling water
+    D) Aeration
+Ans: B
+
+Q385: Flocculation involves:
+    A) Rapid mixing
+    B) Gentle mixing to form larger settleable flocs
+    C) Filtration
+    D) Disinfection
+Ans: B
+
+Q386: Sedimentation removes particles by:
+    A) Chemical reaction
+    B) Gravity settling
+    C) Filtration
+    D) Disinfection
+Ans: B
+
+Q387: Settling velocity for small particles is given by:
+    A) Newton's law
+    B) Stokes' law
+    C) Darcy's law
+    D) Bernoulli's equation
+Ans: B
+
+Q388: Rapid sand filter rate is:
+    A) 0.1-0.2 m³/m²/hr
+    B) 4-8 m³/m²/hr
+    C) 10-15 m³/m²/hr
+    D) 1-2 m³/m²/hr
+Ans: B
+
+Q389: Slow sand filter rate is:
+    A) 4-8 m³/m²/hr
+    B) 0.1-0.2 m³/m²/hr
+    C) 1-2 m³/m²/hr
+    D) 10-15 m³/m²/hr
+Ans: B
+
+Q390: Backwashing of filters involves:
+    A) Forward flow
+    B) Reversal of flow to clean filter bed
+    C) Adding chemicals
+    D) Stopping flow
+Ans: B
+
+Q391: Chlorination is used for:
+    A) Removing turbidity
+    B) Disinfection
+    C) Removing hardness
+    D) Removing color
+Ans: B
+
+Q392: Breakpoint chlorination adds sufficient chlorine to:
+    A) Only kill bacteria
+    B) Oxidize all organic matter and ammonia leaving free residual
+    C) Remove turbidity
+    D) Adjust pH
+Ans: B
+
+Q393: Free residual chlorine is:
+    A) Chlorine demand
+    B) Chlorine remaining after satisfying demand
+    C) Total chlorine added
+    D) Chlorine consumed
+Ans: B
+
+Q394: Jar test is used to determine:
+    A) Turbidity
+    B) Optimum coagulant dose
+    C) pH
+    D) Hardness
+Ans: B
+
+Q395: Turbidity is measured in:
+    A) mg/L
+    B) NTU
+    C) ppm
+    D) dB
+Ans: B
+
+Q396: Hardness of water is due to:
+    A) Sodium and potassium
+    B) Calcium and magnesium ions
+    C) Iron and manganese
+    D) Chloride and sulfate
+Ans: B
+
+Q397: Alkalinity is mainly due to:
+    A) Only hydroxide
+    B) Carbonate, bicarbonate, and hydroxide ions
+    C) Only carbonate
+    D) Only bicarbonate
+Ans: B
+
+Q398: pH of 7 indicates:
+    A) Acidic
+    B) Neutral
+    C) Basic
+    D) Strongly acidic
+Ans: B
+
+Q399: BOD measures:
+    A) Chemical oxygen required
+    B) Oxygen consumed by microorganisms decomposing organic matter
+    C) Total dissolved solids
+    D) Chlorine demand
+Ans: B
+
+Q400: COD measures:
+    A) Biological oxygen
+    B) Chemical oxygen required to oxidize organic and inorganic matter
+    C) Dissolved oxygen
+    D) Total oxygen
+Ans: B
+
+Q401: Per capita water demand in Nepal is typically:
+    A) 50-100 LPCD
+    B) 135-200 LPCD
+    C) 300-400 LPCD
+    D) 500+ LPCD
+Ans: B
+
+Q402: Peak factor for water supply design is typically:
+    A) 1.2
+    B) 1.8
+    C) 2.5
+    D) 3.0
+Ans: B
+
+Q403: Design period for water distribution is typically:
+    A) 10 years
+    B) 30 years
+    C) 50 years
+    D) 100 years
+Ans: B
+
+Q404: Service reservoir balances:
+    A) Only supply
+    B) Supply and demand variations
+    C) Only demand
+    D) Only pressure
+Ans: B
+
+Q405: Hardy Cross method analyzes:
+    A) Gravity flow
+    B) Pipe networks by balancing head losses in loops
+    C) Open channels
+    D) Pumps
+Ans: B
+
+Q406: Hazen-Williams equation for head loss: hf =
+    A) f L V²/(2gD)
+    B) 10.67 L Q^1.852/(C^1.852 D^4.87)
+    C) L Q²/(C D)
+    D) V²/(2g)
+Ans: B
+
+Q407: Darcy-Weisbach equation: hf =
+    A) f L V/(2gD)
+    B) f L V²/(2gD)
+    C) f L V²/(gD)
+    D) f V²/(2gD)
+Ans: B
+
+Q408: Manning's equation: V =
+    A) (1/n) R^(1/3) S^(1/2)
+    B) (1/n) R^(2/3) S^(1/2)
+    C) (1/n) R^(2/3) S^(1/3)
+    D) n R^(2/3) S^(1/2)
+Ans: B
+
+Q409: Chezy's formula: V =
+    A) C R S
+    B) C √(RS)
+    C) C R²S
+    D) C S/R
+Ans: B
+
+Q410: Hydraulic jump occurs when flow changes from:
+    A) Subcritical to supercritical
+    B) Supercritical to subcritical
+    C) Laminar to turbulent
+    D) Turbulent to laminar
+Ans: B
+
+Q411: Froude number Fr =
+    A) V/√(gD)
+    B) V/√(gD)
+    C) V²/(gD)
+    D) Vg/D
+Ans: B
+
+Q412: Subcritical flow has Fr:
+    A) Greater than 1
+    B) Less than 1
+    C) Equal to 1
+    D) Equal to 0
+Ans: B
+
+Q413: Supercritical flow has Fr:
+    A) Less than 1
+    B) Greater than 1
+    C) Equal to 1
+    D) Equal to 0
+Ans: B
+
+Q414: Critical flow has Fr:
+    A) Less than 1
+    B) Equal to 1
+    C) Greater than 1
+    D) Equal to 0
+Ans: B
+
+Q415: Specific energy E =
+    A) y - V²/(2g)
+    B) y + V²/(2g)
+    C) y × V²/(2g)
+    D) y/V²/(2g)
+Ans: B
+
+Q416: Critical depth is where:
+    A) Velocity is maximum
+    B) Specific energy is minimum for given discharge
+    C) Discharge is minimum
+    D) Area is minimum
+Ans: B
+
+Q417: Normal depth occurs under:
+    A) Non-uniform flow
+    B) Uniform flow conditions
+    C) Rapidly varied flow
+    D) Critical flow
+Ans: B
+
+Q418: Uniform flow has:
+    A) Varying depth and velocity
+    B) Constant depth, velocity, and cross-section
+    C) Changing cross-section
+    D) Varying discharge
+Ans: B
+
+Q419: Gradually varied flow has depth changing:
+    A) Abruptly
+    B) Gradually along the channel
+    C) Instantly
+    D) Not at all
+Ans: B
+
+Q420: Rapidly varied flow has depth changing:
+    A) Gradually
+    B) Abruptly over short distance
+    C) Not at all
+    D) Linearly
+Ans: B
+
+Q421: Backwater curve shows water surface:
+    A) Falling upstream
+    B) Rising upstream due to obstruction
+    C) Constant
+    D) Falling downstream
+Ans: B
+
+Q422: Drawdown curve shows water surface:
+    A) Rising downstream
+    B) Falling downstream due to steepening
+    C) Constant
+    D) Rising upstream
+Ans: B
+
+Q423: Most economical rectangular section has b =
+    A) y
+    B) 2y
+    C) 3y
+    D) 1.5y
+Ans: B
+
+Q424: Wetted perimeter P is:
+    A) Cross-sectional area
+    B) Length of boundary in contact with water
+    C) Top width
+    D) Hydraulic depth
+Ans: B
+
+Q425: Hydraulic radius R =
+    A) P/A
+    B) A/P
+    C) A×P
+    D) A-P
+Ans: B
+
+Q426: Conveyance K =
+    A) (1/n) A R^(1/3)
+    B) (1/n) A R^(2/3)
+    C) n A R^(2/3)
+    D) (1/n) A/R^(2/3)
+Ans: B
+
+Q427: Specific force is conserved across:
+    A) Any section
+    B) A hydraulic jump
+    C) Uniform flow
+    D) Gradually varied flow
+Ans: B
+
+Q428: Parshall flume is used to measure:
+    A) Pipe flow
+    B) Open channel flow
+    C) Groundwater flow
+    D) Seepage flow
+Ans: B
+
+Q429: V-notch weir is used for:
+    A) Large discharges
+    B) Accurate measurement of small discharges
+    C) Open channel flow
+    D) Pipe flow
+Ans: B
+
+Q430: Rectangular weir is used for:
+    A) Small discharges
+    B) Moderate to large discharges
+    C) Very large discharges
+    D) Pipe flow
+Ans: B
+
+Q431: Broad-crested weir has:
+    A) Sharp crest
+    B) Broad crest where critical flow occurs
+    C) No crest
+    D) Triangular crest
+Ans: B
+
+Q432: Ogee spillway profile matches:
+    A) Upper nappe of sharp-crested weir
+    B) Lower nappe of sharp-crested weir
+    C) Parabola
+    D) Circle
+Ans: B
+
+Q433: Stilling basin dissipates energy by creating:
+    A) Free fall
+    B) Hydraulic jump
+    C) Spray
+    D) Vortex
+Ans: B
+
+Q434: Ski jump bucket throws water jet:
+    A) Downward
+    B) Away from dam to prevent scour
+    C) Into the air vertically
+    D) Back into reservoir
+Ans: B
+
+Q435: Uplift pressure acts:
+    A) Downward
+    B) Upward on base of structure
+    C) Horizontally
+    D) Laterally
+Ans: B
+
+Q436: Piping failure is caused by:
+    A) Excessive load
+    B) Progressive erosion by seeping water
+    C) Earthquake
+    D) Frost action
+Ans: B
+
+Q437: Critical hydraulic gradient for piping ic =
+    A) (Gs + 1)/(1 + e)
+    B) (Gs - 1)/(1 + e)
+    C) Gs/(1 + e)
+    D) (Gs - 1)/e
+Ans: B
+
+Q438: Safe exit gradient for fine sand is typically:
+    A) 1/2 to 1/3
+    B) 1/4 to 1/6
+    C) 1/6 to 1/8
+    D) 1/8 to 1/10
+Ans: B
+
+Q439: Khosla's method uses:
+    A) Only empirical formulas
+    B) Conformal mapping to determine uplift pressure
+    C) Only graphical methods
+    D) Only analytical methods
+Ans: B
+
+Q440: Filter material should satisfy Terzaghi's criteria:
+    A) Only D15(filter)/D85(soil) < 4-5
+    B) Both D15(filter)/D85(soil) < 4-5 and D15(filter)/D15(soil) > 4-5
+    C) Only D15(filter)/D15(soil) > 4-5
+    D) D15(filter) = D15(soil)
+Ans: B
+
+Q441: Drainage gallery in a dam is used to:
+    A) Increase storage
+    B) Collect seepage water and reduce uplift
+    C) Provide access
+    D) Install gates
+Ans: B
+
+Q442: Grout curtain reduces:
+    A) Uplift pressure
+    B) Seepage through foundation
+    C) Erosion
+    D) Settlement
+Ans: B
+
+Q443: Cut-off wall prevents:
+    A) Overtopping
+    B) Undermining by scour and seepage
+    C) Wave action
+    D) Ice formation
+Ans: B
+
+Q444: Sheet piles are:
+    A) Concrete walls
+    B) Interlocking steel sections driven into ground
+    C) Wooden planks
+    D) Brick walls
+Ans: B
+
+Q445: Lane's weighted creep theory considers:
+    A) Only horizontal paths
+    B) Horizontal and vertical creep paths with different weights
+    C) Only vertical paths
+    D) Only diagonal paths
+Ans: B
+
+Q446: Bligh's creep theory assumes seepage follows:
+    A) Shortest path
+    B) Contact surface between structure and foundation
+    C) Vertical path only
+    D) Horizontal path only
+Ans: B
+
+Q447: Exit gradient is maximum at:
+    A) Upstream toe
+    B) Downstream toe
+    C) Center of base
+    D) Heel
+Ans: B
+
+Q448: A launching apron protects against:
+    A) Uplift
+    B) Scour downstream
+    C) Overtopping
+    D) Seepage
+Ans: B
+
+Q449: Curtain wall at toe prevents:
+    A) Overtopping
+    B) Undermining by scour
+    C) Seepage
+    D) Wave action
+Ans: B
+
+Q450: Gravity dam resists forces by:
+    A) Arch action
+    B) Its own weight
+    C) Buttresses
+    D) Anchors
+Ans: B
+
+Q451: Arch dam transfers water pressure to:
+    A) Foundation only
+    B) Abutments through arch action
+    C) Buttresses
+    D) Spillway
+Ans: B
+
+Q452: Buttress dam has sloping upstream face supported by:
+    A) Arches
+    B) Buttresses on downstream side
+    C) Columns
+    D) Tendons
+Ans: B
+
+Q453: Earthfill dam is constructed of:
+    A) Concrete
+    B) Compacted soil
+    C) Rock only
+    D) Steel
+Ans: B
+
+Q454: Core wall in earth dam is:
+    A) Pervious
+    B) Impervious central zone
+    C) Reinforced concrete
+    D) Gravel fill
+Ans: B
+
+Q455: Cut-off trench is filled with:
+    A) Sand
+    B) Impervious material
+    C) Gravel
+    D) Rock
+Ans: B
+
+Q456: Phreatic line in earth dam represents:
+    A) Ground surface
+    B) Top flow line/water table inside dam
+    C) Bottom of dam
+    D) Crest level
+Ans: B
+
+Q457: Factor of safety against overturning for gravity dam should be >
+    A) 1.0
+    B) 1.5
+    C) 2.0
+    D) 3.0
+Ans: B
+
+Q458: Factor of safety against sliding for gravity dam should be >
+    A) 1.0 with friction only
+    B) 1.5 with shear key
+    C) 2.0
+    D) 1.0
+Ans: B
+
+Q459: Middle third rule ensures:
+    A) Maximum compression
+    B) No tension in foundation
+    C) Minimum settlement
+    D) Maximum stability
+Ans: B
+
+Q460: Dead storage is below:
+    A) Full reservoir level
+    B) Minimum drawdown level
+    C) Maximum water level
+    D) Spillway crest
+Ans: B
+
+Q461: Live storage is between:
+    A) FRL and MWL
+    B) Minimum and maximum operating levels
+    C) Dead storage and FRL
+    D) Spillway and crest
+Ans: B
+
+Q462: Surcharge storage is between:
+    A) Dead storage and live storage
+    B) FRL and MWL
+    C) Minimum level and FRL
+    D) Crest and spillway
+Ans: B
+
+Q463: Yield of reservoir is determined using:
+    A) Only inflow data
+    B) Mass curve method or sequent peak algorithm
+    C) Only demand data
+    D) Only evaporation data
+Ans: B
+
+Q464: Trap efficiency of reservoir depends on:
+    A) Only reservoir size
+    B) Capacity-inflow ratio
+    C) Only inflow rate
+    D) Only sediment size
+Ans: B
+
+Q465: Nepal lies in seismic zone:
+    A) Zone III
+    B) Zone IV
+    C) Zone V (high seismic zone)
+    D) Zone II
+Ans: C
+
+Q466: Response spectrum shows maximum response of SDOF systems of various:
+    A) Damping ratios
+    B) Natural periods
+    C) Masses
+    D) Stiffnesses
+Ans: B
+
+Q467: Natural period is the time for:
+    A) Forced vibration
+    B) One complete cycle of free vibration
+    C) Damped vibration
+    D) Resonance
+Ans: B
+
+Q468: Fundamental period of RC frame ≈
+    A) 0.05N seconds
+    B) 0.1N seconds where N is number of storeys
+    C) 0.2N seconds
+    D) 0.5N seconds
+Ans: B
+
+Q469: Base shear Vb =
+    A) Z × W
+    B) Ah × W
+    C) I × W
+    D) R × W
+Ans: B
+
+Q470: Seismic coefficient method distributes lateral forces:
+    A) Equally
+    B) Vertically in proportion to mass and height
+    C) Only at top
+    D) Only at base
+Ans: B
+
+Q471: Modal analysis uses:
+    A) Only first mode
+    B) Natural modes of vibration
+    C) Static analysis
+    D) Only equivalent lateral force
+Ans: B
+
+Q472: Ductility factor is the ratio of:
+    A) Yield displacement to ultimate displacement
+    B) Ultimate displacement to yield displacement
+    C) Elastic force to plastic force
+    D) Plastic force to elastic force
+Ans: B
+
+Q473: Response reduction factor R typically ranges from:
+    A) 1 to 2
+    B) 3 to 5 for RC buildings
+    C) 5 to 10
+    D) 10 to 15
+Ans: B
+
+Q474: Importance factor I for ordinary buildings is:
+    A) 0.5
+    B) 1.0
+    C) 1.5
+    D) 2.0
+Ans: B
+
+Q475: Zone factor Z for Zone V in IS 1893 is:
+    A) 0.16
+    B) 0.24
+    C) 0.36
+    D) 0.48
+Ans: C
+
+Q476: The design horizontal seismic coefficient Ah =
+    A) Z/2
+    B) (Z/2) × (I/R) × (Sa/g)
+    C) Z × I × R
+    D) (Z/2) × R/I
+Ans: B
+
+Q477: Soil type affects seismic response through:
+    A) Only density
+    B) Site period and amplification
+    C) Only depth
+    D) Only moisture
+Ans: B
+
+Q478: Liquefaction occurs in:
+    A) Dense sand
+    B) Saturated loose sand during earthquake
+    C) Clay
+    D) Rock
+Ans: B
+
+Q479: Standard penetration resistance N > ___ generally indicates low liquefaction potential:
+    A) 10
+    B) 15
+    C) 30
+    D) 50
+Ans: C
+
+Q480: IS 1893 is the code for:
+    A) Concrete design
+    B) Earthquake resistant design
+    C) Steel design
+    D) Foundation design
+Ans: B
+
+Q481: IS 456 is the code for:
+    A) Steel design
+    B) Plain and reinforced concrete
+    C) Earthquake design
+    D) Masonry design
+Ans: B
+
+Q482: IS 800 is the code for:
+    A) Concrete design
+    B) General construction in steel
+    C) Earthquake design
+    D) Timber design
+Ans: B
+
+Q483: IS 875 Part 2 deals with:
+    A) Dead loads
+    B) Imposed (live) loads
+    C) Wind loads
+    D) Snow loads
+Ans: B
+
+Q484: IS 875 Part 3 deals with:
+    A) Dead loads
+    B) Wind loads
+    C) Snow loads
+    D) Earthquake loads
+Ans: B
+
+Q485: Characteristic strength of concrete is defined as:
+    A) Mean strength
+    B) Strength below which not more than 5% of test results fall
+    C) Maximum strength
+    D) Minimum strength
+Ans: B
+
+Q486: Characteristic strength of steel is:
+    A) Mean yield strength
+    B) Yield strength below which not more than 5% of values fall
+    C) Ultimate strength
+    D) Proof strength
+Ans: B
+
+Q487: Partial safety factor for concrete in limit state of collapse is:
+    A) 1.0
+    B) 1.5
+    C) 1.15
+    D) 2.0
+Ans: B
+
+Q488: Partial safety factor for steel in limit state of collapse is:
+    A) 1.0
+    B) 1.15
+    C) 1.5
+    D) 2.0
+Ans: B
+
+Q489: Partial safety factor for load in limit state of collapse is:
+    A) 1.0
+    B) 1.5 for dead load, 1.5 for live load
+    C) 1.2
+    D) 2.0
+Ans: B
+
+Q490: The modular ratio for M20 concrete and Fe 415 steel in working stress is approximately:
+    A) 13.33
+    B) 18.66
+    C) 10
+    D) 20
+Ans: B
+
+Q491: For Fe 500 steel, the strain at design stress is:
+    A) 0.002
+    B) 0.00217 + 0.87fy/Es
+    C) 0.0035
+    D) 0.004
+Ans: B
+
+Q492: The maximum strain in concrete at the outermost compression fiber is:
+    A) 0.002
+    B) 0.0035
+    C) 0.004
+    D) 0.005
+Ans: B
+
+Q493: The neutral axis depth factor Xu,max/d for Fe 415 is:
+    A) 0.46
+    B) 0.48
+    C) 0.50
+    D) 0.53
+Ans: B
+
+Q494: The neutral axis depth factor Xu,max/d for Fe 500 is:
+    A) 0.46
+    B) 0.48
+    C) 0.50
+    D) 0.46
+Ans: D
+
+Q495: Minimum grade of concrete for RCC as per IS 456 is:
+    A) M15
+    B) M20
+    C) M25
+    D) M30
+Ans: B
+
+Q496: Maximum water-cement ratio for mild exposure as per IS 456 is:
+    A) 0.45
+    B) 0.50
+    C) 0.55
+    D) 0.60
+Ans: C
+
+Q497: Minimum cement content for moderate exposure is:
+    A) 250 kg/m³
+    B) 300 kg/m³
+    C) 350 kg/m³
+    D) 400 kg/m³
+Ans: B
+
+Q498: Cover for reinforcement in moderate exposure for slab is:
+    A) 15 mm
+    B) 20 mm
+    C) 25 mm
+    D) 30 mm
+Ans: B
+
+Q499: Maximum spacing of main bars in slab shall not exceed:
+    A) 200 mm or 3d whichever is less
+    B) 300 mm or 3d whichever is less
+    C) 450 mm or 3d whichever is less
+    D) 500 mm
+Ans: B
+
+Q500: Minimum percentage of steel in slab is:
+    A) 0.10%
+    B) 0.12%
+    C) 0.15%
+    D) 0.20%
+Ans: B
