@@ -1,0 +1,5 @@
+node_modules/
+.env
+*.save
+server/uploads/
+dist/
