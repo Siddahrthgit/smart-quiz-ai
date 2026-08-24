@@ -1,0 +1,138 @@
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 250px;
+  height: 100vh;
+  background: #111827;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 15px;
+  z-index: 1000;
+}
+
+.sidebar-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 19px;
+  padding: 8px 10px 25px;
+}
+
+.sidebar-logo span {
+  font-size: 28px;
+}
+
+.sidebar-user {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 15px 10px;
+  margin-bottom: 18px;
+  border-top: 1px solid #374151;
+  border-bottom: 1px solid #374151;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #4f46e5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.sidebar-user strong,
+.sidebar-user small {
+  display: block;
+}
+
+.sidebar-user small {
+  color: #9ca3af;
+  margin-top: 3px;
+  max-width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 13px 14px;
+  border-radius: 10px;
+  color: #d1d5db;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.2s;
+}
+
+.sidebar-link:hover {
+  background: #1f2937;
+  color: white;
+}
+
+.sidebar-link.active {
+  background: #4f46e5;
+  color: white;
+}
+
+.sidebar-link span,
+.logout-btn span {
+  font-size: 19px;
+}
+
+.logout-btn {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 13px 14px;
+  border: none;
+  border-radius: 10px;
+  background: #dc2626;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.logout-btn:hover {
+  background: #b91c1c;
+}
+
+@media (max-width: 700px) {
+  .sidebar {
+    width: 75px;
+    padding: 15px 10px;
+  }
+
+  .sidebar-logo strong,
+  .sidebar-user div:last-child,
+  .sidebar-link:not(.active)::after,
+  .logout-btn {
+    display: none;
+  }
+
+  .sidebar-logo {
+    justify-content: center;
+  }
+
+  .sidebar-user {
+    justify-content: center;
+  }
+
+  .sidebar-link {
+    justify-content: center;
+    padding: 13px;
+  }
+}
